@@ -2,9 +2,7 @@
 
 Welcome to the developer diaries of look at time.
 
-### What is time even?
-December 17, 2020
-
+### December 17, 2020 What is time even?
 This is the beginning of a blog post.
 
 
