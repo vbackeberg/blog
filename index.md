@@ -1,8 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vbackeberg/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the developer diaries of look at time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is time even?
+December 17, 2020
+
+This is the beginning of a blog post.
+
+
 
 ### Markdown
 
