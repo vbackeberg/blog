@@ -16,5 +16,4 @@ Those boxes parting to the right will be fine. The browser will display a bottom
 ###New (positive) space has to emerge###
 
 
-
-(image spacing)
+<img src="img/extend-space.gif" alt="Extending space">
