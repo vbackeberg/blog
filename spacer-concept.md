@@ -9,8 +9,12 @@ No, we won't talk about science here, although on my way to solving this, I some
 If you read my previous blog post on [how I implemented zoom](../how-zoom), you might remember that our boxes (time events) will move away from the mouse pointer as we spin the scroll wheel of the mouse. This poses a problem with how browsers handle absolute positioning of elements.
 
 ### What happens? ###
-Those boxes parting to the right will be fine. The browser will display a bottom scrollbar and you can reach those boxes using horizontal scroll. But those boxes parting to the left will vanish in unreachable space as they cross position 0 and enter negative absolute space.
+Those boxes parting to the right will be fine. The browser will display a bottom scrollbar and you can reach those boxes using horizontal scroll. But those boxes parting to the left will vanish in unreachable space as they cross position 0 and enter negative absolute space. As you can see in below example, there is no scrollbar allowing us to reach the partly hidden box. 
 
-(image box crossing position 0)
+<img src="img/crossing-zero1.gif" alt="Crossing zero">
 
-**New (positive) space has to emerge**
+###New (positive) space has to emerge###
+
+
+
+(image spacing)
