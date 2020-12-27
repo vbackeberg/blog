@@ -13,7 +13,7 @@ Those boxes parting to the right will be fine. The browser will display a bottom
 
 <img src="img/crossing-zero1.gif" alt="Crossing zero">
 
-### New (positive) space has to emerge###
+### New (positive) space has to emerge ###
 
 
 <img src="img/extend-space.gif" alt="Extending space">
