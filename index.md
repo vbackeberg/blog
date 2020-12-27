@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Developer blog
 
 Welcome to the developer diaries of look at time.
 
