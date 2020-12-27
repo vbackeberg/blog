@@ -1,4 +1,6 @@
 # How does space emerge?
+## How does space emerge?
+### How does space emerge?
 _December 27, 2020_
 
 <img src="img/CMB_Timeline300_no_WMAP.jpg" alt="Space emergence">
