@@ -4,6 +4,8 @@ _December 27, 2020_
 
 <img src="img/CMB_Timeline300_no_WMAP.jpg" alt="Space emergence">
 
+_Source: NASA/WMAP Science Team_
+
 No, we won't talk about science here, although on my way to solving this, I sometimes felt I am dealing with rocket science here.
 
 If you read my previous blog post on [how I implemented zoom](../how-zoom), you might remember that our boxes (time events) will move away from the mouse pointer as we spin the scroll wheel of the mouse. This poses a problem with how browsers handle absolute positioning of elements.
@@ -13,8 +15,11 @@ Those boxes parting to the right will be fine. The browser will display a bottom
 
 <img src="img/crossing-zero1.gif" alt="Crossing zero">
 
-###New (positive) space has to emerge###
+Browsers have a reason for not displaying content that resides in the negative space:
+(research)
 
+### New (positive) space has to emerge! ###
 
+To solve this issue, the application will have to continuously watch for boxes entering the negative space and unnoticably reposition the whole scene in a way that places all the boxes in the positive space. Here is how it should look:
 
-(image spacing)
+<img src="img/extend-space.gif" alt="Extending space">
