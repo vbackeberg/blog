@@ -2,8 +2,9 @@
 ## How does space emerge?
 _December 27, 2020_
 
-<img src="img/CMB_Timeline300_no_WMAP.jpg" alt="Space emergence"><br />
-<span style="text-align: right"> Source: NASA/WMAP Science Team</span>
+<img src="img/CMB_Timeline300_no_WMAP.jpg" alt="Space emergence">
+
+_Source: NASA/WMAP Science Team_
 
 No, we won't talk about science here, although on my way to solving this, I sometimes felt I am dealing with rocket science here.
 
