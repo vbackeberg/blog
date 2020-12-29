@@ -3,7 +3,7 @@
 _December 27, 2020_
 
 <img src="img/CMB_Timeline300_no_WMAP.jpg" alt="Space emergence">
-_Source: NASA/WMAP Science Team_
+*Source: NASA/WMAP Science Team*
 
 No, we won't talk about science here, although on my way to solving this, I sometimes felt I am dealing with rocket science here.
 
